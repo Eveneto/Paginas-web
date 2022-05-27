@@ -1,0 +1,93 @@
+		body{
+			font-family: Arial;  
+			margin: 0; 
+			background-color: #F6F5F5; 
+
+		}  
+		h2{
+			color: #FFD700; 
+		}  
+		p{
+			width: 800px;
+		} 
+		 
+		h3{
+			color: #606060; 
+			background: #E0E0E0; 
+			width: 220px; 
+			padding: 8px;
+		}
+		#main{
+			margin: auto 50px;
+		}
+		#cabecalho{
+			background: #FFD700; 
+			height: 110px; 
+			padding: 16px; 
+		}  
+		#logo{
+			text-align: center;
+		} 
+		#navbar{
+			text-align: center; 
+			margin: 10px;
+		} 
+		#navbar a{
+			margin: 10px; 
+			text-decoration: none; 
+			color: white; 
+			font-weight: bold;
+		} 
+		#navbar a:hover{
+			background: white; 
+			color: #FFD700; 
+			padding: 10px;
+		} 
+		#lateral{
+			position: absolute; 
+			top: 150px; 
+			left: 1200px 
+
+		}
+		.tec{
+			font-size: 40px; 
+			color: #404040; 
+			font-weight: bold; 
+		} 
+		.blog{
+			font-size: 40px; 
+			color: white; 
+			font-weight: bold;
+		} 
+		.link{
+			color: #FFD700; 
+			text-decoration: none; 
+			font-weight: bold;
+		} 
+		.link:hover{
+			text-decoration: underline;
+		} 
+		.recentes{
+			background: white;
+			padding: 5px; 
+			width: 400px; 
+		} 	
+		.categorias{
+			background: white; 
+			padding: 5px; 
+			margin-top: 20px;
+		} 
+		.postagem{
+			background: white; 
+			width: 1000px; 
+			margin-left: 100px; 
+			margin-top: 20px;
+			padding: 12px;
+		} 
+		.textorodape{
+			width: 1300px; 
+			margin-left: 100px; 
+			margin-top: 20px; 
+			text-align: center; 
+			padding: 13px;
+		}
